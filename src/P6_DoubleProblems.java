@@ -1,7 +1,11 @@
 /*
 	ISYS 320
-	Name(s):
+	Name(s): Anthony Quehl
 	Date: 
+	
+	6. There is no ouput due to the rounding issues of Java. The answer does not round
+	   9.6.
+	
 */
 
 public class P6_DoubleProblems {
