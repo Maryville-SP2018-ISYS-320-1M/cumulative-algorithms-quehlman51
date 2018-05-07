@@ -10,14 +10,18 @@ import java.util.Scanner;
 1. Fill out the table for the loop below for the user inputs:
 4 3 5 2 6
 
-	| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
-	| initialization	 |				 |				 |				 | 
-	| 1				 |				 |				 |				 |
+	| ITERATION 		 | accumulatorVariable	 | NextInputVariable	 | VARIABLE NAME	 |
+	| initialization	 |				 	 	 |				 	 	 |				 	 | 
+	| 1				 	 |	4			 	 	 |	4			 	 	 |				 	 |
+	| 2					 |	3					 |	3					 | 
+*	| 3					 |	3					 |	5					 |
+*	| 4					 |	2					 |	2					 |
+*	| 5					 |	2					 |	6					 |
 */
 
 /*
 2. What is does this algorithm accomplish? (i.e., what does it compute or find?)
-
+   Finds the smallest number the user entered.
 
 */
 
